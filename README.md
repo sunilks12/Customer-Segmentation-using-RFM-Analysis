@@ -8,3 +8,7 @@ Step-1: Segmenting customers on the basis of Recency,Frequency and Monetary Valu
 Step-2: Predicting probability that the customer will purchase in the next quarter using RFM and segment information via logit model (logistic regression)
 
 Step-3: Identifying focus groups based on purchase probabilities for targeted advertisements using market basket analysis
+
+![img-0](MT.png)
+![img-1](LM.png)
+![img-2](CM.png)
